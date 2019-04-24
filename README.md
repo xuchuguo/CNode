@@ -1,4 +1,4 @@
-# cnode
+# cnode  预览地址：https://xuchuguo.github.io/CNode/dist/index.html#/
 
 > A Vue.js project
 
